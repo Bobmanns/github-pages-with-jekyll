@@ -1,8 +1,9 @@
-theme: minima.
+
 title: My Test Title
 author: Bobmanns
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
+theme: minima
   I am exploring the wonderful world of github. blablabal
 
 # social links
